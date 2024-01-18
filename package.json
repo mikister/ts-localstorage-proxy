@@ -1,0 +1,28 @@
+{
+  "name": "ts-localstorage-proxy",
+  "version": "1.0.0",
+  "description": "Access localStorage like it's an object, using proxies.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikister/ts-localstorage-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "ts",
+    "typescript",
+    "localstorage",
+    "local",
+    "storage"
+  ],
+  "author": "Milan Radojević",
+  "license": "MIT",
+  "homepage": "https://github.com/mikister/ts-localstorage-proxy#readme",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
